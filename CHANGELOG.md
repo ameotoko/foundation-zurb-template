@@ -12,3 +12,4 @@ Optimized for use in [Contao CMS](https://contao.org)
 - browser-sync proxies local Contao installation
 - changed browser-sync port
 - added `--mode=css` option for npm tasks (development speed optimization)
+- watch for `*.html5` changes in `/templates` folder in addition to css and js
